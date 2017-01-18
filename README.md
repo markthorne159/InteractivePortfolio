@@ -2,6 +2,6 @@
 
 ## Choose Your Own Adventure
 
-Select A Character.
+Click on one of the characters below to start an adventure!
 
 ![TestImage]()
