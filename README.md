@@ -4,4 +4,4 @@
 
 Click on one of the characters below to start an adventure!
 
-![TestImage]()
+![TestImage](http://puu.sh/tqrV4/417cd30ec5.gif)
