@@ -3,9 +3,14 @@ display: none;
 position: relative;
 }
 
-#I1{
+#I2{
 position: relative;
 left: 100px;
+}
+
+#I2{
+position: relative;
+left: 200px;
 }
 
 #B2{
