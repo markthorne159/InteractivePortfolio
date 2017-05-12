@@ -1,0 +1,22 @@
+#B1{
+display: none;
+position: relative;
+}
+
+#B2{
+display: none;
+}
+
+#B3{
+display: none;
+}
+
+#C2{
+position: relative;
+left: 100px;
+}
+
+#C3{
+position: relative;
+left: 200px;
+}
