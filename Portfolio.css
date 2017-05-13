@@ -36,6 +36,13 @@ font-weight: bold;
 font-family: monospace;
 }
 
+#C1{
+position: relative;
+font-weight: bold;
+font-family: monospace;
+}
+
+
 #C2{
 position: relative;
 left: 100px;
