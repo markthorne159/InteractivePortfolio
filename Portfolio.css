@@ -6,32 +6,46 @@
 #B1{
 display: none;
 position: relative;
+font-weight: bold;
+font-family: monospace;
 }
 
 #I2{
 position: relative;
 left: 100px;
+font-weight: bold;
+font-family: monospace;
 }
 
 #I3{
 position: relative;
 left: 200px;
+font-weight: bold;
+font-family: monospace;
 }
 
 #B2{
 display: none;
+font-weight: bold;
+font-family: monospace;
 }
 
 #B3{
 display: none;
+font-weight: bold;
+font-family: monospace;
 }
 
 #C2{
 position: relative;
 left: 100px;
+font-weight: bold;
+font-family: monospace;
 }
 
 #C3{
 position: relative;
 left: 200px;
+font-weight: bold;
+font-family: monospace;
 }
