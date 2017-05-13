@@ -1,3 +1,7 @@
+#Title{
+  font-weight: bold;
+}
+
 #B1{
 display: none;
 position: relative;
@@ -6,7 +10,6 @@ position: relative;
 #I2{
 position: relative;
 left: 100px;
-top: -100px;
 }
 
 #I3{
